@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-up" width="5" height="10" tilewidth="100" tileheight="100" infinite="0" nextlayerid="5" nextobjectid="14">
+ <imagelayer id="3" name="bg" locked="1">
+  <image source="pokemon-bg.jpg" width="500" height="1000"/>
+ </imagelayer>
+ <objectgroup id="4" name="obstacles">
+  <object id="1" x="53.2229" y="196.334" width="203.43" height="199.882"/>
+  <object id="2" x="403.312" y="447.073" width="46.1266" height="49.6747"/>
+  <object id="3" x="398.581" y="399.763" width="53.2229" height="46.1266"/>
+  <object id="4" x="299.231" y="449.438" width="50.8575" height="44.9438"/>
+  <object id="5" x="353.637" y="496.747" width="50.8575" height="46.1266"/>
+  <object id="6" x="0" y="246.008" width="49.6747" height="49.6747"/>
+  <object id="7" x="3.5482" y="353.637" width="44.9438" height="39.0302"/>
+  <object id="8" x="99.3495" y="643.406" width="208.161" height="202.247"/>
+  <object id="9" x="455.352" y="-5.91366" width="42.5784" height="98.1668"/>
+  <object id="10" x="-9.46186" y="-7.09639" width="257.836" height="102.898"/>
+  <object id="11" x="-18.9237" y="82.7912" width="66.233" height="107.629"/>
+  <object id="12" x="-15.3755" y="772.324" width="73.3294" height="230.633"/>
+  <object id="13" x="645.772" y="661.147" width="1.18273"/>
+ </objectgroup>
+</map>

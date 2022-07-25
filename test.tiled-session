@@ -1,0 +1,32 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "test.tmj",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "test.tmj": {
+            "scale": 0.8454999999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 334.1218214074512,
+                "y": 618.5688941454762
+            }
+        }
+    },
+    "map.height": 10,
+    "map.lastUsedFormat": "json",
+    "map.renderOrder": null,
+    "map.tileHeight": 100,
+    "map.tileWidth": 100,
+    "map.width": 5,
+    "openFiles": [
+        "test.tmj"
+    ],
+    "project": "test.tiled-project",
+    "recentFiles": [
+        "test.tmj"
+    ]
+}
